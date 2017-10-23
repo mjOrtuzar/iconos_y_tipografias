@@ -1,0 +1,40 @@
+.caja{
+	background-color: #D8D8D8;
+	width: 200px;
+	height: 300px;
+	float: left;
+	margin: 4px;
+	border-radius: 10px;
+}
+h1{
+	font-size: 26px;
+	text-align: center;
+	font-family: 'Saira Extra Condensed', sans-serif;
+}
+p{
+	font-family: 'Sanchez', serif;
+	margin-left:10px; 
+}
+.caja .fa-bolt{
+	font-size: 80px;
+	margin-left: 80px;
+	color: #848484;
+}
+
+.caja .fa-gamepad{
+	font-size: 80px;
+	margin-left: 60px;
+	color: #848484;
+}
+
+.caja .fa-headphones{
+	font-size: 80px;
+	margin-left: 70px;
+	color: #848484;
+}
+
+.caja .fa-paw{
+	font-size: 80px;
+	margin-left: 70px;
+	color: #848484;
+}
